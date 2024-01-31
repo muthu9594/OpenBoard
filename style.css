@@ -155,7 +155,6 @@ background-color: #ff4757;
 
 .note-cont{
     height:calc( 100% - 2rem );
-    background-color: crimson;
     box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
 
 }
@@ -166,4 +165,9 @@ background-color: #ff4757;
     outline: none;
     border: none;
     resize: none;
+}
+
+img{
+    height: 100%;
+    width: 100%;
 }
